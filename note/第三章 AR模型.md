@@ -220,7 +220,11 @@ $\phi_{k k}=\left\{\begin{array}{ll}{\frac{\phi_{1}}{1-\phi_{2}}} & {, \quad k=1
 
 ![image-20191010192604799](../img/image-20191010192604799.png)
 
- 
+
+
+###总结 
+
+* PACF是为了辅助AR(P)模型找出P的值大小
 
 
 
