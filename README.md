@@ -17,3 +17,5 @@
 
 [第七章 非平稳序列的确定性分析.md](https://github.com/AiSummaryChat/time_series_analysis/blob/master/note/第七章  非平稳序列的确定性分析.md)
 
+
+使用Typora软件打开目录进行markdown及公式渲染不会乱码
