@@ -1,13 +1,9 @@
-
 import numpy as np
 import csv
 import matplotlib.pylab as plt
-from IPython.core.pylabtools import figsize
 from collections import OrderedDict
 from scipy.stats import linregress
 from scipy.optimize import differential_evolution
-
-figsize(10, 8)
 
 '''
 this code from github
